@@ -133,6 +133,8 @@
 (require 'color-theme)
 (require 'color-theme-molokai)
 (color-theme-molokai)
+;(require 'color-theme-calm-forest)
+;(color-theme-calm-forest)
 ;; misc has some crucial tools I need immediately
 (require 'init-misc)
 
@@ -175,3 +177,4 @@
 ;;; no-byte-compile: t
 ;;; End:
 (put 'erase-buffer 'disabled nil)
+
